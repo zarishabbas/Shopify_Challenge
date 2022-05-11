@@ -13,7 +13,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 
     Another way to address these issues is to look at the median of the order value, instead of the average. This is because the median is robust to outliers. However, in choosing to use the median, we lose information that may be relevant about the multiple groups that make up the customers in the data set.   
 
-    (Please expand the following sub-section, "Exploration of data" for further insight into my thought process and explanation of the above answers)
+   
 
 ### Question 1.2: What metric would you report for this dataset?
 
